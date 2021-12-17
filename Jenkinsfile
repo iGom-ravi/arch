@@ -1,3 +1,3 @@
 @Library("Gomathy") _
-import com.hexaware.sharelib.SharedLibrary
-new SharedLibrary("hello world")
+import com.hexaware.shared.sharedlib
+new Shared(steps).startBuild()
