@@ -1,4 +1,4 @@
-package com.shared;
+package com.hexaware.shared;
 
 public class shared{
    def steps
